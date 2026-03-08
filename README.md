@@ -1,4 +1,5 @@
-# 🎨 Generative Drawing Agent
+#DrawMate -
+🎨 Generative Drawing Agent
 
 A simple Python agent that converts natural language prompts into Turtle graphics drawings.
 
